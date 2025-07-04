@@ -1,16 +1,29 @@
-## Hi there 👋
+# Olá, eu sou o Klayver Alencar! 👋
 
-<!--
-**klayveralencar777/klayveralencar777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mim
 
-Here are some ideas to get you started:
+Sou desenvolvedor focado em backend com experiência em Java e Spring Boot, além de conhecimentos em desenvolvimento full stack com React e Node.js.  
+Apaixonado por criar APIs REST robustas, escaláveis e bem estruturadas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tecnologias e habilidades
+
+- **Linguagens:** Java, JavaScript
+- **Backend:** Spring Boot, Node.js, Express
+- **Banco de dados:** PostgreSQL, MongoDB, H2
+- **Frontend:** React
+- **Ferramentas:** Maven, Git, Postman
+- **Conceitos:** Programação Orientada a Objetos, Design Patterns, APIs REST, Validação de dados, Tratamento de exceções
+
+## 📂 Projeto em destaque
+
+- [FULL-API-funcionarios](https://github.com/klayveralencar777/FULL-API-funcionarios) – API REST para gerenciamento de funcionários usando Spring Boot
+
+
+## 📫 Como me encontrar
+
+- E-mail: alencar.klayver7@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/klayver-alencar-a5a0b2339/
+
+---
+
+Obrigado pela visita! 🚀
