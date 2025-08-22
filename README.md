@@ -17,7 +17,7 @@ Apaixonado por criar APIs REST robustas, escaláveis e bem estruturadas.
 ## 📂 Projeto em destaque
 
 - [FULL-API-funcionarios](https://github.com/klayveralencar777/FULL-API-funcionarios) – API REST para gerenciamento de funcionários usando Spring Boot
-- [Machine Learning - Modelo de Regressão Linear simples] (https://github.com/klayveralencar777/A-simple-linear-regression) - Modelo prevê a progressão de diabetes usando a idade como variável independente
+- [Machine Learning - Modelo de Regressão Linear simples](https://github.com/klayveralencar777/A-simple-linear-regression) - Modelo prevê a progressão de diabetes usando a idade como variável independente
 
 
 ## 📫 Como me encontrar
