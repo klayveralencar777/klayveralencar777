@@ -1,23 +1,11 @@
-# Olá, eu sou o Klayver Alencar! 👋
+💻 **Klayver Alencar – Desenvolvedor Back-End e Machine Learning**
 
-## 🚀 Sobre mim
-
-Sou desenvolvedor focado em backend com experiência em Java e Spring Boot, além de conhecimentos em desenvolvimento full stack com React, Node.js e Machine Learning.  
-Apaixonado por criar APIs REST robustas, escaláveis e bem estruturadas.
-
-## 💻 Tecnologias e habilidades
-
-- **Linguagens:** Java, JavaScript, Python
-- **Backend:** Spring Boot, Node.js, Express
-- **Banco de dados:** PostgreSQL, MongoDB, H2
-- **Frontend:** React
-- **Ferramentas:** Maven, Git, Postman
-- **Conceitos:** Programação Orientada a Objetos, Design Patterns, APIs REST, Validação de dados, Tratamento de exceções
+Conhecimentos em **Back-End** e **APIs** com **Java**, **Spring Boot**, **PostgreSQL** e **MongoDB**. expandindo conhecimentos em **Machine Learning** e análise de dados com **Python** e **scikit-learn**, sempre buscando entregar **soluções eficientes e escaláveis**.
 
 ## 📂 Projeto em destaque
 
 - [FULL-API-funcionarios](https://github.com/klayveralencar777/FULL-API-funcionarios) – API REST para gerenciamento de funcionários usando Spring Boot
-- [Machine Learning - Modelo de Regressão Linear simples](https://github.com/klayveralencar777/A-simple-linear-regression) - Modelo prevê a progressão de diabetes usando a idade como variável independente
+- [Machine Learning - Análise Regressão Linear-Lasso](https://github.com/klayveralencar777/linear-lasso-regression) - Construção do modelo de machine learning e análise da previsão dos métodos
 
 
 ## 📫 Como me encontrar
