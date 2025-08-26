@@ -1,4 +1,4 @@
-💻 **Klayver Alencar – Desenvolvedor Back-End e Machine Learning**
+💻 **Klayver Alencar – Estudande de Análise e Desenvolvimento de Sistemas**
 
 Conhecimentos em **Back-End** e **APIs** com **Java**, **Spring Boot**, **PostgreSQL** e **MongoDB**. expandindo conhecimentos em **Machine Learning** e análise de dados com **Python** e **scikit-learn**, sempre buscando entregar **soluções eficientes e escaláveis**.
 
