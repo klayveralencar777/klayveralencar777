@@ -5,7 +5,7 @@ Conhecimentos em **Back-End** e **APIs** com **Java**, **Spring Boot**, **Postgr
 ## 📂 Projeto em destaque
 
 - [FULL-API-funcionarios](https://github.com/klayveralencar777/FULL-API-funcionarios) – API REST para gerenciamento de funcionários usando Spring Boot
-- [Machine Learning - Análise Regressão Linear-Lasso](https://github.com/klayveralencar777/linear-lasso-regression) - Construção do modelo de Machine Learning e análise da previsão dos métodos
+- [API de Cursos Online](https://github.com/klayveralencar777/Gestao-Curso-Api) – API REST para gestão de Cursos Online com relacionamento entre entidades como Curso, Instrutor e etc.
 
 
 ## 📫 Como me encontrar
