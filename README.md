@@ -2,7 +2,7 @@
 
 Conhecimentos em **Back-End** e **APIs** com **Java**, **Spring Boot**, **PostgreSQL** e **MongoDB**. expandindo conhecimentos em **Machine Learning** e análise de dados com **Python** e **scikit-learn**, sempre buscando entregar **soluções eficientes e escaláveis**.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
