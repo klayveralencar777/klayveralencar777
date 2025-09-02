@@ -1,4 +1,4 @@
-💻 **Klayver Alencar – Estudante de Análise e Desenvolvimento de Sistemas**
+ **KLAYVER ALENCAR – Estudante de Análise e Desenvolvimento de Sistemas**
 
 Conhecimentos em **Back-End** e **APIs** com **Java**, **Spring Boot**, **Nodejs**, **React**, **PostgreSQL**. Sempre tentando adquirir mais bagagem e expandir a capacidade de resolver problemas. 
 
@@ -13,7 +13,7 @@ Conhecimentos em **Back-End** e **APIs** com **Java**, **Spring Boot**, **Nodejs
 </p>
 
 
-## 📂 Projeto em destaque
+## Projeto em destaque
 
 - [FULL-API-funcionarios](https://github.com/klayveralencar777/FULL-API-funcionarios) – API REST para gerenciamento de funcionários usando Spring Boot
 - [API de Cursos Online](https://github.com/klayveralencar777/Gestao-Curso-Api) – API REST para gestão de Cursos Online com relacionamento entre entidades como Curso, Instrutor e etc.
@@ -21,7 +21,7 @@ Conhecimentos em **Back-End** e **APIs** com **Java**, **Spring Boot**, **Nodejs
 
 
 
-## 📫 Como me encontrar
+## Como me encontrar
 
 - E-mail: alencar.klayver7@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/klayver-alencar-a5a0b2339/
