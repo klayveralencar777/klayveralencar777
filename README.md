@@ -16,6 +16,14 @@ Conhecimentos em **Back-End** e **APIs** com **Java**, **Spring Boot**, **Nodejs
 - [API de Cursos Online](https://github.com/klayveralencar777/Gestao-Curso-Api) – API REST para gestão de Cursos Online com relacionamento entre entidades como Curso, Instrutor e etc.
 
 
+
+## 📊 GitHub Stats
+![Klayver's GitHub stats](https://github-readme-stats.vercel.app/api?username=klayveralencar777&show_icons=true&count_private=true&include_all_commits=true)
+
+## 🖥️ Linguagens mais usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klayveralencar777&layout=compact)
+
+
 ## 📫 Como me encontrar
 
 - E-mail: alencar.klayver7@gmail.com  
