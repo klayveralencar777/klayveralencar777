@@ -15,7 +15,6 @@ Conhecimentos em **Back-End** e **APIs** com **Java**, **Spring Boot**, **Nodejs
 - [FULL-API-funcionarios](https://github.com/klayveralencar777/FULL-API-funcionarios) – API REST para gerenciamento de funcionários usando Spring Boot
 - [API de Cursos Online](https://github.com/klayveralencar777/Gestao-Curso-Api) – API REST para gestão de Cursos Online com relacionamento entre entidades como Curso, Instrutor e etc.
 
-![Commits](https://img.shields.io/github/commit-activity/m/klayveralencar7777/https://github.com/klayveralencar777/Gestao-Curso-Api?style=for-the-badge&logo=git&logoColor=white)
 
 
 
