@@ -14,8 +14,9 @@ Experiência prática em **Back-End** e **APIsREST** com **Java**, **Spring Boot
 
 ## Projeto em destaque
 
-- [FULL-API-funcionarios](https://github.com/klayveralencar777/FULL-API-funcionarios) – API REST para gerenciamento de funcionários usando Spring Boot
-- [API de Cursos Online](https://github.com/klayveralencar777/Gestao-Curso-Api) – API REST para gestão de Cursos Online com relacionamento entre entidades como Curso, Instrutor e etc.
+- [API DE USUÁRIOS](https://github.com/klayveralencar777/usuario-perfil-api) – API REST para gestão de Usuários e seus respectivos perfis com relação OneToOne.
+- [API DE FUNCIONÁRIOS](https://github.com/klayveralencar777/FULL-API-funcionarios) – API REST para gerenciamento de funcionários usando Spring Boot.
+
 
 
 
