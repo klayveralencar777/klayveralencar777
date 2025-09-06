@@ -12,6 +12,9 @@ Experiência prática em **Back-End** e **APIsREST** com **Java**, **Spring Boot
 </p>
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight)
+
+
 ## Projeto em destaque
 
 - [API DE USUÁRIOS](https://github.com/klayveralencar777/usuario-perfil-api) – API REST para gestão de Usuários e seus respectivos perfis com relação OneToOne.
