@@ -14,6 +14,8 @@ Experiência prática em **Back-End** e **APIsREST** com **Java**, **Spring Boot
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klayveralencar777&layout=compact&theme=tokyonight)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=klayveralencar777&show_icons=true&theme=tokyonight)
+
 
 ## Projeto em destaque
 
