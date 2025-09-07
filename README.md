@@ -1,6 +1,6 @@
-## **KLAYVER ALENCAR – Estudante de Análise e Desenvolvimento de Sistemas**
+## **Olá, me chamo Klayver Alencar
 
-Experiência prática em **Back-End** e **APIsREST** com **Java**, **Spring Boot**, **Nodejs** e **PostgreSQL**. Sempre  adquiririndo mais conhecimento para expandir a capacidade de resolver problemas. 
+Sou estudante de Análise e Desenvolvimento de Sistemas e tenho experiência prática em **Back-End** e **APIsREST** com **Java**, **Spring Boot**, **Nodejs** e **PostgreSQL**. Sempre  adquiririndo mais conhecimento para expandir a capacidade de resolver problemas. 
 
 
 <p align="left">
