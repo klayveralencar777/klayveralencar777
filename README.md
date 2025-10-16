@@ -19,8 +19,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e tenho experiência pr�
 
 ## Projeto em destaque
 
-- [API DE USUÁRIOS](https://github.com/klayveralencar777/usuario-perfil-api) – API REST para gestão de Usuários e seus respectivos perfis com relação OneToOne.
-- [API DE FUNCIONÁRIOS](https://github.com/klayveralencar777/FULL-API-funcionarios) – API REST para gerenciamento de funcionários usando Spring Boot.
+- [API QUE INTEGRA GROQ AI](https://github.com/klayveralencar777/behavior-analytics-AI) – API REST que integra GroqAI para calcular métricas importantes.
+- [API DE USUÁRIOS](https://github.com/klayveralencar777/usuario-perfil-api) – API REST para gerenciamento de funcionários usando Spring Boot.
 
 
 
