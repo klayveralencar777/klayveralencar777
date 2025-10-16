@@ -12,6 +12,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e tenho experiência pr�
 </p>
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klayveralencar777&layout=compact&theme=dracula)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=klayveralencar777&show_icons=true&theme=tokyonight)
 
 
