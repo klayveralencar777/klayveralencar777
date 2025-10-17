@@ -18,9 +18,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e tenho experiência pr�
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klayveralencar777&layout=compact&theme=dracula)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=klayveralencar777&show_icons=true&theme=tokyonight)
-
-
 ## Projeto em destaque
 
 - [ANÁLISE DO COMPORTAMENTO DE CLIENTES](https://github.com/klayveralencar777/api-comportamento-cliente-AI) – Projeto que calcula métricas e utiliza IA para traçar estratégias benéficas para o seu negócio.
