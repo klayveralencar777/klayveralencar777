@@ -1,6 +1,6 @@
 ## Olá, me chamo Klayver Alencar ##
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e tenho experiência prática em **Back-End** e **APIsREST** com **Java**, **TypeScript** e **PostgreSQL**. Sempre  adquiririndo mais conhecimento para expandir a capacidade de resolver problemas. 
+Sou estudante de Análise e Desenvolvimento de Sistemas e tenho experiência prática na criação de **APIsREST** com **Java**, **TypeScript** e **PostgreSQL** e também com **ReactJS** . Sempre  adquiririndo mais conhecimento para expandir a capacidade de resolver problemas. 
 
 
 <p align="left">
