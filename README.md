@@ -21,7 +21,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e tenho experiência pr�
 ## Projeto em destaque
 
 - [ANÁLISE DO COMPORTAMENTO DE CLIENTES](https://github.com/klayveralencar777/api-comportamento-cliente-AI) – Projeto que calcula métricas e utiliza IA para traçar estratégias benéficas para o seu negócio.
-- [API DE USUÁRIOS](https://github.com/klayveralencar777/usuario-perfil-api) – API REST para gerenciamento de funcionários usando Spring Boot.
+- [API DE USUÁRIOS](https://github.com/klayveralencar777/usuario-perfil-api) – API REST para gerenciamento de usuários usando Spring Boot.
 
 
 
