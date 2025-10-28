@@ -10,6 +10,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e tenho experiência pr�
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="80" height="80"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="80" height="80"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="80" height="80"/>
+    
 
 
 
