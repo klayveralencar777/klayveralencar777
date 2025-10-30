@@ -1,7 +1,9 @@
 ## Olá, me chamo Klayver Alencar ##
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e tenho experiência prática na criação de **APIsREST** com **Java**, **TypeScript** e **PostgreSQL** e também com **ReactJS** . Sempre  adquiririndo mais conhecimento para expandir a capacidade de resolver problemas. 
+Estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento web. Possui experiência prática na criação de APIs REST utilizando frameworks amplamente adotados no mercado. Atua tanto no back-end quanto no front-end, buscando compreender não apenas a tecnologia, mas também as regras de negócio e as necessidades do cliente.
 
+
+## Tecnologias que utilizo
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="80" height="80" alt="Node.js"/>
