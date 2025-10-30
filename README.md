@@ -2,6 +2,7 @@
 
 Sou estudante de Análise e Desenvolvimento de Sistemas e tenho experiência prática na criação de **APIsREST** com **Java**, **TypeScript** e **PostgreSQL** e também com **ReactJS** . Sempre  adquiririndo mais conhecimento para expandir a capacidade de resolver problemas. 
 
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="80" height="80" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="80" height="80" alt="TypeScript"/>
