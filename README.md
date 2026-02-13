@@ -1,6 +1,11 @@
 ## Olá, me chamo Klayver Alencar ##
 
-Estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento web. Possui experiência prática na criação de APIs REST utilizando frameworks amplamente adotados no mercado. Atua tanto no back-end quanto no front-end, buscando compreender não apenas a tecnologia, mas também as regras de negócio e as necessidades do cliente.
+Estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento web. Possui experiência prática na criação de APIs REST utilizando frameworks amplamente adotados no mercado. Atua tanto no back-end quanto no front-end, buscando compreender não apenas a tecnologia, mas também as regras de negócio e as necessidades do cliente. 
+
+🚀 Atualmente trabalhando em:
+
+Data-vision – Plataforma web de análise de dados, KPIs, controle de estoque e CRM.
+Atuação no backend com Node.js, Express e Prisma, estruturando arquitetura em camadas e regras de negócio.
 
 
 ## Tecnologias que utilizo
@@ -13,16 +18,6 @@ Estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="80" height="45" alt="React"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="80" height="45" alt="git logo"  />
 </div>
-
-
-## Linguagens mais utilizadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klayveralencar777&layout=compact&theme=dracula)
-
-## Projeto em destaque
-
-- [ANÁLISE DO COMPORTAMENTO DE CLIENTES](https://github.com/klayveralencar777/api-comportamento-cliente-AI) – Projeto que calcula métricas e utiliza IA para traçar estratégias benéficas para o seu negócio.
-- [API PARA GERENCIAMENTO DE PRODUTOS](https://github.com/klayveralencar777/api-gerenciamento-produtos) – API REST para gerenciamento de produtos com cadastro de usuários, login, autenticação e gerenciamento de produtos.
 
 
 ## Como me encontrar
