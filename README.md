@@ -18,7 +18,7 @@ Desenvolvedor Full Stack. Possui experiência prática na criação de APIs REST
 ## Como me encontrar
 
 - E-mail: alencar.klayver7@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/klayver-alencar-a5a0b2339/
+- LinkedIn: https://www.linkedin.com/in/klayver-g-alencar-a5a0b2339/
 
 ---
 
